@@ -1,0 +1,4 @@
+1. Folder datasets memuat gambar tanaman mangrove yang akan dilatih ke dalam model model
+2. Setiap arsitektur CNN ada di dalam folder sesuai dengan namanya
+3. Untuk menjalankan script, install depedencies dari file requirements.txt terlebih dahulu
+4. Pastikan izin / hak akses folder adalah write/read
