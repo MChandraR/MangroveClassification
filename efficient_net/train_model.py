@@ -16,8 +16,8 @@ val_dir = "../datasets/valid"
 test_dir = "../datasets/test"
 
 IMG_SIZE = (224, 224)
-BATCH_SIZE = 32
-EPOCHS = 20
+BATCH_SIZE = 50
+EPOCHS = 50
 
 train_data = tf.keras.utils.image_dataset_from_directory(
     train_dir,
