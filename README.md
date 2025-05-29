@@ -20,4 +20,13 @@ Cara run project :
 2. Setiap arsitektur CNN ada di dalam folder sesuai dengan namanya
 3. Untuk menjalankan script, install depedencies dari file requirements.txt terlebih dahulu
 4. Pastikan izin / hak akses folder adalah write/read
-5. Script predict.py/run.py merupakan script untuk menjalankan model yang sudah dilatih, sedangkan train_model.py digunakan untuk melatih model berdasarkan dataset yang ada 
+5. Script predict.py/run.py merupakan script untuk menjalankan model yang sudah dilatih, sedangkan train_model.py digunakan untuk melatih model berdasarkan dataset yang ada
+
+<b style="font-size : 3rem;"> Contoh hasil prediksi dari model CNN dengan arsitektur EfficentNetB0: </b>
+
+![image](https://github.com/user-attachments/assets/3b4dbef4-10a7-4570-942e-6e278df6cd19)
+
+<b> Proses training menggunakan arsitektur ResNet50 : </b>
+
+<img width="1526" alt="image" src="https://github.com/user-attachments/assets/36e5ce78-33e6-4ad8-a724-71627f98402c" />
+
